@@ -1,0 +1,8 @@
+{
+  "name": "Legacy-bot",
+  "version": "1.0.0",
+  "description": "Created By Memes",
+  "main": "bot.js",
+  "author": "Memes",
+  "dependencies": {}
+}
